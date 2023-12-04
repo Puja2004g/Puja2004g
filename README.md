@@ -1,7 +1,7 @@
 [![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX56730747.jpg)](https://github.com/Puja2004g)
 <h1 align="center">Hi 👋, I'm Puja Guchhait</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
-<img alt="coding girl" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="coding girl" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 - 🌱 I’m currently learning **Java and python**
 
