@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puja2004g&label=Profile%20views&color=0e75b6&style=flat" alt="puja2004g" /> </p>
 
-<p align="left"> <a href="https://twitter.com/guchhaitpu66020" target="blank"><img src="https://img.shields.io/twitter/follow/guchhaitpu66020?logo=twitter&style=for-the-badge" alt="guchhaitpu66020" /></a> </p>
-
 - 🌱 I’m currently learning **Java and python**
 
 - 💬 Ask me about **C++ with OOPS and DSA**
