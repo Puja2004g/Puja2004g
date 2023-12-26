@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Puja Guchhait</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puja2004g&label=Profile%20views&color=0e75b6&style=flat" alt="puja2004g" /> </p>
-
 - 🌱 I’m currently learning **Java and python**
 
 - 💬 Ask me about **C++ with OOPS and DSA**
