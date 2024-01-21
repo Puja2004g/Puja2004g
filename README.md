@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puja Guchhait</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puja2004g" alt="puja2004g" /></a> </p>
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/https://github.com/Puja2004g=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=puja2004g" alt="puja2004g" /></a> </p>
 
 - 🌱 I’m currently learning **Java, python and React js**
 
