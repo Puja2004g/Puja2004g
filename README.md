@@ -1,5 +1,3 @@
-<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg" height="200" alt="Profile Image">
-
 <h1 align="center">Hi 👋, I'm Puja Guchhait</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 
