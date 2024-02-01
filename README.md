@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puja Guchhait</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 
-- 🌱 I’m currently learning **Java, python and React js**
+- 🌱 I’m currently learning **python and React js**
 
 - 💬 Ask me about **C++ with OOPS and DSA**
 
