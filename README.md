@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python and React js**
 
-- 💬 Ask me about **C++ with OOPS and DSA**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **pujaguchhait2004@gmail.com**
 
