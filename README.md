@@ -33,7 +33,7 @@
 
 ## 📊 My GitHub Contributions
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&theme=default)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=puja2004g&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&theme=default)
 
-![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=default)
+![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com?user=puja2004g&theme=default)
 
