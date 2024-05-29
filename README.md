@@ -3,7 +3,11 @@
 
 
 # 💫 About Me:
-I'm currently working on Data structures and algorithms<br>I am looking to collaborate on my recent internship with Timechain labs as a front-end developer<br>I'm currently learning Reactjs<br>Ask me about c++ and java
+- 🌱 I’m currently learning **React js**
+
+- 💬 Ask me about **C++**
+
+- 📫 How to reach me **pujaguchhait2004@gmail.com**
 
 
 ## 🌐 Socials:
