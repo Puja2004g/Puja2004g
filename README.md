@@ -5,7 +5,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++** and **JAVA**
 
 - 📫 How to reach me **pujaguchhait2004@gmail.com**
 
