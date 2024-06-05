@@ -20,10 +20,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Puja2004g&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Puja2004g&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
+![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=puja2004g&theme=react-dark&hide_border=true&area=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
