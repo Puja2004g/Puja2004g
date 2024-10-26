@@ -24,7 +24,7 @@
 
 
 
-![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=puja2004g&theme=react-dark&hide_border=true&area=true)
+<!-- ![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=puja2004g&theme=react-dark&hide_border=true&area=true) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
